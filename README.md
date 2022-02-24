@@ -10,10 +10,9 @@
 
 ### Connect with me:
 
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/anoop-suvarna-74b7099b)
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/anoop-suvarna-74b7099b#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/anoop-suvarna-74b7099b#gh-dark-mode-only)
-
+&nbsp;&nbsp;
 
 ### Languages and Tools:
 
