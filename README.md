@@ -3,10 +3,10 @@
 ## I'm a Cloud Engineer working for a IT Tech organization.
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to cloud entusiast to work together for Devops Freelance Jobs
-- 🥅 2022 Goals: Learn more about MLOPS
+- 👯 I’m looking for a cloud entusiast to work together for Devops Freelance Jobs
+- 🥅 2023 Goals: To get more certifications. 
 - ⚡ Fun fact: I love to draw and play Cricket
-- 😻 NFT under progress...
+- 😻 Setting up a own Alograding platform under progress...
 
 ### Connect with me:
 
